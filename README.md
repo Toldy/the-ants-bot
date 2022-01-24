@@ -33,8 +33,9 @@ A program who will play for you when you cannot play at [The Ants: Underground K
 #### Problems encountered
 
 ###### ☑️ BlueStacks sometimes makes my Mac BlackScreen during its startup
-###### ✅ Ocr doesn't work well when scanning a March Unit
-→ 💡 Make multiple crops + OCR
+
+###### ✅ OCR's Result isn't accurate (Multiple data on the same line)
+→ 💡 Split this date in multiple cropped images + OCR them 1 by 1
 <details>
   <summary>details here</summary>
 When scanning this: <img src="https://user-images.githubusercontent.com/3730187/150847610-4530d14f-fb5f-48d4-a058-bba338d1f564.jpg"/>
@@ -43,6 +44,38 @@ Tesseract can return:
 - `460 Dye 220/1,540 @ 84/100 &, 4.0K`
 - `460 Dye 220/1,540 @ PAPAL!) &, 4.0K`
 - `even worse cases...`  
+
+It is better like this:
+![marchunit_screenshot_0_name](https://user-images.githubusercontent.com/3730187/150859366-79bdf1c2-c75c-49fc-bab8-2901e5ed5e27.png)
+
+![marchunit_screenshot_0_power](https://user-images.githubusercontent.com/3730187/150859369-bd19366f-785d-4c3b-af14-fc47090c43ee.png)
+
+![marchunit_screenshot_0_stamina](https://user-images.githubusercontent.com/3730187/150859371-0a447f78-f78b-4ad8-bf22-1fcaf52d0afa.png)
+</details>
+
+###### ✅ OCR's Result isn't accurate (Application graphics aren't always aligned the same way)
+→ 💡 Find better values for thoses crop zones
+<details>
+  <summary>details here</summary>
+See those 2 cases with different stamina:
+
+![image](https://user-images.githubusercontent.com/3730187/150863164-87dcfde7-f0a4-4f78-97c1-9cb6e177099e.png)
+
+OCR Result: `100/100`
+
+![image](https://user-images.githubusercontent.com/3730187/150863232-039bc04f-33e2-4c3b-a8d3-2d62eca2aa50.png)
+
+OCR Result: `PAPAL!)` 🤯
+
+I hardcoded the crop zone value when stamina was 100/100. When Stamina drops to 93/100, crop zone is bad (because it contains part of the insect image). 
+OCR
+This produces noise and a bad OCR result like
+</details>
+
+###### ☑️ OCR not consistent
+→ 💡 
+<details>
+  <summary>details here</summary>
 </details>
 
 ## Bot modes
