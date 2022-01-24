@@ -12,6 +12,7 @@ It is a program who will play for you when you cannot play.
 - ☑️ Resource gathering
 - ☑️ Provide Allance Help
 - ☑️ Claim Alliance Gifts
+- ☑️ Upgrade buildings of your AntHill
 
 #### Stack
 
@@ -26,7 +27,14 @@ It is a program who will play for you when you cannot play.
 ## Bot modes
 
 #### 1. AutoFarming
-
-> Farm resources by attacking monsters as much a possible
-
-*Prerequisite*: You build your March Units before launching the bot 
+###### Goal
+Farm resources by attacking monsters as much a possible. 
+###### Advantages
+- You wake up with a lot resources :)
+- Provides XP for your special Ants
+###### Features
+- ✅ Computes which resource you need the most before attacking a monter
+- ✅ Use all March Units available (only the first two are used at the moment)
+- ☑️ Automatically refills your ants
+###### Prerequisites
+You build your March Units before launching the bot 
