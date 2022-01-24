@@ -16,6 +16,10 @@ A program who will play for you when you cannot play at [The Ants: Underground K
 - ☑️ Claim Alliance Gifts
 - ☑️ Upgrade buildings of your AntHill
 
+#### How it works?
+
+// TODO: Provide a diagram
+
 #### Stack
 
 - MacOS Monterey
@@ -26,7 +30,20 @@ A program who will play for you when you cannot play at [The Ants: Underground K
 - [Tesseract](https://github.com/tesseract-ocr/tessdoc): Text recognition (OCR) on Screencaptures (from emulator)
 - [ImageMagick](https://github.com/ImageMagick/ImageMagick): Image cropping + Image preprocessing for Tesseract
 
-#### 
+#### Problems encountered
+
+###### ☑️ BlueStacks sometimes makes my Mac BlackScreen during its startup
+###### ✅ Ocr doesn't work well when scanning a March Unit
+→ 💡 Make multiple crops + OCR
+<details>
+  <summary>details here</summary>
+When scanning this: <img src="https://user-images.githubusercontent.com/3730187/150847610-4530d14f-fb5f-48d4-a058-bba338d1f564.jpg"/>
+
+Tesseract can return:
+- `460 Dye 220/1,540 @ 84/100 &, 4.0K`
+- `460 Dye 220/1,540 @ PAPAL!) &, 4.0K`
+- `even worse cases...`  
+</details>
 
 ## Bot modes
 
