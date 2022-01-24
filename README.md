@@ -39,6 +39,6 @@ Farm resources by attacking monsters as much a possible.
 ###### Features
 - ✅ Computes which resource you need the most before attacking a monter
 - ✅ Use all March Units available (only the first two are used at the moment)
-- ☑️ Automatically refills your ants
+- ☑️ Automatically refills your March Units with available soldier ants
 ###### Prerequisites
 You build your March Units before launching the bot 
