@@ -2,6 +2,8 @@
 > - Feel free to reach me [here](https://www.linkedin.com/in/colinjulien/) if you are interested 
 > - **Curiosity-driven** work (Atm the goal isn't to build a real solid software)
 
+<img src="https://user-images.githubusercontent.com/3730187/150880054-625b4c7b-5734-4ec3-8f2c-26ef1037ce9a.png" alt="YouTube logo" height="14"/>Demo on [Youtube](https://www.youtube.com/watch?v=Zyk_SdwdpuU) 👀 
+
 #### What is The Ants - Bot?
 
 A program who will play for you when you cannot play at [The Ants: Underground Kingdom](https://play.google.com/store/apps/details?id=com.star.union.planetant)
