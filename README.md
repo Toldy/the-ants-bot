@@ -1,2 +1,4 @@
-# the-ants-bot
-Automation bot for "The Ants: The Underground Kingdom"
+# Goal
+
+Automation of repetitive game tasks while you're sleep
+
