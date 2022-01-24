@@ -1,6 +1,6 @@
-> I didn't commit the code to not harm the gameplay of others.
-> 
-> Feel free to reach me [here](https://www.linkedin.com/in/colinjulien/) if you are interested 
+> - Didn't commit the code to not harm the gameplay of others.
+> - Feel free to reach me [here](https://www.linkedin.com/in/colinjulien/) if you are interested 
+> - **Curiosity-driven** work (Atm the goal isn't to build a real solid software)
 
 #### What is The Ants - Bot?
 
@@ -25,6 +25,8 @@ A program who will play for you when you cannot play at [The Ants: Underground K
 - [MacOS Screencapture CLI](https://ss64.com/osx/screencapture.html): Screenshot emulator
 - [Tesseract](https://github.com/tesseract-ocr/tessdoc): Text recognition (OCR) on Screencaptures (from emulator)
 - [ImageMagick](https://github.com/ImageMagick/ImageMagick): Image cropping + Image preprocessing for Tesseract
+
+#### 
 
 ## Bot modes
 
