@@ -18,7 +18,7 @@ A program who will play for you when you cannot play at [The Ants: Underground K
 
 #### How it works?
 
-// TODO: Provide a diagram
+![Diagram](https://user-images.githubusercontent.com/3730187/150878031-6492dfcb-7e4d-4bed-b913-3d4a243f5969.png)
 
 #### Stack
 
