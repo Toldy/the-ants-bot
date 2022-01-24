@@ -4,7 +4,9 @@
 
 #### What is The Ants - Bot?
 
-It is a program who will play for you when you cannot play.
+A program who will play for you when you cannot play at [The Ants: Underground Kingdom](https://play.google.com/store/apps/details?id=com.star.union.planetant)
+
+<img src="https://user-images.githubusercontent.com/3730187/150842114-b77003ab-70fd-4da0-9dc3-155166860532.png" alt="The Ants logo" width="400"/>
 
 #### What can it do?
 
